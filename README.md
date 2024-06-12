@@ -1,2 +1,13 @@
 # CodeForce_Problems
-Problems for my practice on CodeForce
+Hey Vistors,
+
+In addition to my other work here, I am currently studying for improvement in problem-solving and software engineer interviews. 
+
+I am using mostly Leetcode and CodeForce to work on these skills.
+
+I will post my code solutions as I solve problems daily, so you can reference them and see my coding skills. 
+
+I hope you enjoy it!
+
+Cheers, 
+Robert
